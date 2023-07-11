@@ -2572,7 +2572,7 @@ input, select, textarea {
 	  }
 	  
 	  img.pfp {
-		border-radius: 50%;
+		border-radius: 15%;
 		width:18%;
 	  }
 	  img.center {
