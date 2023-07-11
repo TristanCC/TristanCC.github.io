@@ -2569,10 +2569,12 @@ input, select, textarea {
 	}
 	img {
 	
+	  }
+	  
+	  img.pfp {
 		border-radius: 50%;
 		width:18%;
 	  }
-	  
 	  img.center {
 		display: block;
 		margin: 0 auto;
