@@ -2569,7 +2569,6 @@ input, select, textarea {
 	}
 	img {
 	
-		border-radius: 50%;
 		width:18%;
 	  }
 	  
@@ -2621,6 +2620,9 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+			
+
+	
 
 /* List */
 
