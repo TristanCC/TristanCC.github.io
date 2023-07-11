@@ -1,0 +1,95 @@
+ body {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(22, 23, 24);
+    background-image: url(galaxy.jpg);
+    background-repeat: repeat;
+    background-blend-mode: screen;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+}
+
+p{
+    color: white;
+}
+a{
+    color: white;
+    display: block;
+}
+.text-center{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.bg{
+    line-height: 100px;
+    margin: auto;
+    border: 3px solid rgb(44, 44, 44);
+    text-align: center;
+    background: rgb(39, 41, 39);
+    width: 400px;
+    min-height: 100px;
+    overflow: hidden;
+    border-radius: 20px;
+
+    
+}
+
+.button{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    margin: 0 3px;
+    border: 0px solid rgb(44, 44, 44);
+    border-radius: 9px;
+    font-size:larger;
+}
+.button:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+.button:active{
+    cursor: pointer;
+    background-color: rgb(44, 44, 44);  
+}
+.row{
+    margin: 12px
+}
+.row input{
+    background-color: rgb(73, 73, 44);
+    font-size: 23px;
+    margin: 0;
+    padding: 27px 30px;
+    border: 3px solid rgb(44, 44, 44);
+    border-radius: 5px;
+}
+#specialbutton{
+background-color: orange;
+}
+#specialbutton:hover{
+    cursor: pointer;
+    background-color: grey;   
+}
+#specialbutton:active{
+    cursor: pointer;
+    background-color: rgb(44, 44, 44);  
+}
+
+#specialbutton2{
+    background-color:rgb(79, 148, 209) ;
+    }
+    #specialbutton2:hover{
+        cursor: pointer;
+        background-color: grey;   
+    }
+    #specialbutton2:active{
+        cursor: pointer;
+        background-color: rgb(44, 44, 44);  
+    }
+
+.text{
+    text-align: center;
+    margin: 30px;
+}
